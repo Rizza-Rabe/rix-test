@@ -85082,8 +85082,8 @@ s=1
 break
 case 1:return A.t(q,r)}})
 return A.u($async$CG,r)},
-I(a){var s,r,q=this,p=null,o="assets/right_arrow_icon.png",n=A.In(B.He,B.j,B.d3,B.T9),m=t.p
-m=A.a([A.ak(p,A.cc(A.a([A.ca(A.a([A.ak(p,A.aAV(A.aBC(q.as,p,p)),B.h,p,p,p,80,B.E4,p,80),A.cc(A.a([A.ak(p,A.aV(q.y,1,B.ae,p,B.yZ,p,p),B.h,p,p,p,p,p,B.az,160),A.ak(p,A.aV(q.z,1,B.ae,p,B.Qw,p,p),B.h,p,p,p,p,p,B.az,160)],m),B.bR,B.u,B.t)],m),B.p,B.u,B.t),A.ak(p,A.aV("Primary: "+q.Q,p,p,p,B.R4,p,p),B.h,p,p,p,p,B.f0,B.az,p),A.ca(A.a([A.ak(p,A.aV("Credits: "+A.aBZ("0.00",p).j6(q.ax),p,p,p,B.z_,p,p),B.h,p,p,p,p,B.az,B.az,p),B.dk,A.ak(p,A.eq(B.Tk,new A.ab4(a),A.ff(p,p,B.JK,p,p,p,p,p,p,p,new A.aI(B.ND,t.VY),p,new A.bo(new A.ab5(),t.h2),new A.aI(B.f0,t.Ni),p,new A.aI(new A.bL(A.bw(30),B.q),t.fj),p,p,p,p,p,p)),B.h,p,p,p,p,B.ir,p,p)],m),B.p,B.u,B.t)],m),B.bR,B.u,B.t),B.h,B.j,p,p,p,p,p,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/account_icon.png",p,30,30),B.ev,B.SW,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab6(q,a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/clock_icon.png",p,30,30),B.ev,B.Tb,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab7(q,a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/list_icon.png",p,30,30),B.ev,B.T5,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab8(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/location_icon.png",p,30,30),B.ev,B.Ti,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab9(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/logs_icon.png",p,30,30),B.ev,B.Tn,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.aba(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p)],m)
+I(a){var s,r,q=this,p=null,o="assets/right_arrow_icon.png",n=A.In(B.He,B.j,B.d3,B.T8),m=t.p
+m=A.a([A.ak(p,A.cc(A.a([A.ca(A.a([A.ak(p,A.aAV(A.aBC(q.as,p,p)),B.h,p,p,p,80,B.E4,p,80),A.cc(A.a([A.ak(p,A.aV(q.y,1,B.ae,p,B.yZ,p,p),B.h,p,p,p,p,p,B.az,160),A.ak(p,A.aV(q.z,1,B.ae,p,B.Qw,p,p),B.h,p,p,p,p,p,B.az,160)],m),B.bR,B.u,B.t)],m),B.p,B.u,B.t),A.ak(p,A.aV("Primary: "+q.Q,p,p,p,B.R4,p,p),B.h,p,p,p,p,B.f0,B.az,p),A.ca(A.a([A.ak(p,A.aV("Credits: "+A.aBZ("0.00",p).j6(q.ax),p,p,p,B.z_,p,p),B.h,p,p,p,p,B.az,B.az,p),B.dk,A.ak(p,A.eq(B.Tj,new A.ab4(a),A.ff(p,p,B.JK,p,p,p,p,p,p,p,new A.aI(B.ND,t.VY),p,new A.bo(new A.ab5(),t.h2),new A.aI(B.f0,t.Ni),p,new A.aI(new A.bL(A.bw(30),B.q),t.fj),p,p,p,p,p,p)),B.h,p,p,p,p,B.ir,p,p)],m),B.p,B.u,B.t)],m),B.bR,B.u,B.t),B.h,B.j,p,p,p,p,p,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/account_icon.png",p,30,30),B.ev,B.SV,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab6(q,a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/clock_icon.png",p,30,30),B.ev,B.Ta,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab7(q,a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/list_icon.png",p,30,30),B.ev,B.T4,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab8(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/location_icon.png",p,30,30),B.ev,B.Th,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.ab9(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p),A.ak(p,A.yk(A.bw(10),A.d3(!1,A.bw(10),!0,A.ak(p,A.ca(A.a([A.cA("assets/logs_icon.png",p,30,30),B.ev,B.Tm,B.dk,A.cA(o,p,15,15)],m),B.p,B.u,B.t),B.h,p,p,p,p,p,B.a1,p),p,!0,p,p,p,p,p,p,p,p,p,new A.aba(a),p,B.aZ,p,p)),B.h,p,p,p,p,B.az,B.bU,p)],m)
 s=A.ab([null,0],t.LO,t.S)
 r=!0
 r=r?B.kB:p
@@ -85390,7 +85390,7 @@ p=t.Il
 o=t.fj
 n=A.ff(i,i,new A.aI(j.as,p),i,i,i,i,i,i,i,new A.aI(B.ha,r),i,new A.bo(new A.a21(),q),i,i,new A.aI(new A.bL(A.bw(30),B.q),o),i,i,i,i,i,i)
 s=A.dy(A.eq(A.aV(j.ax,i,i,i,B.yY,i,i),new A.a22(j),n),s,i)
-n=A.ak(i,B.Tl,B.h,i,i,i,i,i,B.aP,i)
+n=A.ak(i,B.Tk,B.h,i,i,i,i,i,B.aP,i)
 m=j.CW
 m=A.dy(A.ak(i,A.aGX(A.eE(!1,B.aG,j.e,B.Ff,j.z,i,B.yV,i,1,i,j.gaaN()),j.w),B.h,i,i,i,i,B.ip,B.aP,i),m,i)
 l=j.CW
@@ -85779,7 +85779,7 @@ adg(a){var s=0,r=A.v(t.z),q=this,p,o
 var $async$F2=A.q(function(b,c){if(b===1)return A.r(c,r)
 while(true)switch(s){case 0:p=t.p
 o=t.N
-A.b1C(a,A.a([A.aC4(A.ca(A.a([A.cA("assets/popup_add_normal_icon.png",null,18,18),B.jO,B.Ty],p),B.p,B.u,B.t),"add_member",o),A.aC4(A.ca(A.a([A.cA("assets/popup_transfer_normal_icon.png",null,18,18),B.jO,B.SS],p),B.p,B.u,B.t),"transfer",o),A.aC4(A.ca(A.a([A.cA("assets/trash_icon.png",null,18,18),B.jO,B.TA],p),B.p,B.u,B.t),"clear_list",o)],t.S5),B.LU,o).aQ(0,new A.a4h(q,a),t.P)
+A.b1C(a,A.a([A.aC4(A.ca(A.a([A.cA("assets/popup_add_normal_icon.png",null,18,18),B.jO,B.Ty],p),B.p,B.u,B.t),"add_member",o),A.aC4(A.ca(A.a([A.cA("assets/popup_transfer_normal_icon.png",null,18,18),B.jO,B.SR],p),B.p,B.u,B.t),"transfer",o),A.aC4(A.ca(A.a([A.cA("assets/trash_icon.png",null,18,18),B.jO,B.TA],p),B.p,B.u,B.t),"clear_list",o)],t.S5),B.LU,o).aQ(0,new A.a4h(q,a),t.P)
 return A.t(null,r)}})
 return A.u($async$F2,r)},
 EY(a){return this.acK(a)},
@@ -85796,9 +85796,9 @@ return A.u($async$EY,r)},
 I(a){var s,r,q,p,o=this,n=null,m=A.aV("Club Members",n,n,n,A.dC(n,n,B.k,n,n,n,n,n,n,n,n,18,n,n,B.a_,n,n,!0,n,n,n,n,n,n,n,n),n,n),l=o.z,k=t.p
 m=A.In(A.a([A.ak(n,A.aV(o.x.j6(l.length)+" members",n,n,n,B.Ov,n,n),B.h,n,n,n,n,B.az,n,n),A.ak(n,A.i8(A.d3(!1,A.bw(30),!0,A.ak(n,A.cA("assets/more_icon.png",n,n,n),B.h,n,n,n,n,n,B.aP,n),n,!0,n,n,n,n,n,n,n,n,n,new A.a4w(o,a),n,n,n,n),n,45,45),B.h,n,n,n,n,B.Ei,n,n)],k),B.j,B.d3,m)
 s=t.T
-s=A.ak(n,A.ca(A.a([A.i6(A.eE(!1,n,o.y,A.eC(n,B.M,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,B.j,B.M,n,n,n,n,n,B.G,"Search name or account",n,n,n,n,!1,n,n,B.G,n,n,A.ak(n,A.cA("assets/search_grey_icon.png",n,18,18),B.h,n,n,n,n,B.aP,n,n),n,n,n,n,n,n,n,n,n,n,n),n,n,n,n,1,n,n),1),B.bx,A.dr(A.eq(B.Th,new A.a4x(o),A.ff(n,n,new A.bo(new A.a4y(),s),n,n,n,n,n,n,n,n,n,new A.bo(new A.a4z(),s),n,n,n,n,n,n,n,n,n)),n,80)],k),B.p,B.u,B.t),B.h,n,n,n,n,B.E_,n,n)
+s=A.ak(n,A.ca(A.a([A.i6(A.eE(!1,n,o.y,A.eC(n,B.M,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,B.j,B.M,n,n,n,n,n,B.G,"Search name or account",n,n,n,n,!1,n,n,B.G,n,n,A.ak(n,A.cA("assets/search_grey_icon.png",n,18,18),B.h,n,n,n,n,B.aP,n,n),n,n,n,n,n,n,n,n,n,n,n),n,n,n,n,1,n,n),1),B.bx,A.dr(A.eq(B.Tg,new A.a4x(o),A.ff(n,n,new A.bo(new A.a4y(),s),n,n,n,n,n,n,n,n,n,new A.bo(new A.a4z(),s),n,n,n,n,n,n,n,n,n)),n,80)],k),B.p,B.u,B.t),B.h,n,n,n,n,B.E_,n,n)
 r=o.ay
-r=A.ap4(A.i6(new A.bN(B.F,n,n,A.cc(A.a([A.cA("assets/emptybox_icon.png",n,60,60),B.aK,B.Td],k),B.p,B.bE,B.t),n),1),!r)
+r=A.ap4(A.i6(new A.bN(B.F,n,n,A.cc(A.a([A.cA("assets/emptybox_icon.png",n,60,60),B.aK,B.Tc],k),B.p,B.bE,B.t),n),1),!r)
 q=o.ay
 l=l.length
 p=!0
@@ -85908,7 +85908,7 @@ $1(a){return new A.bE(this.a.j(0),null)},
 $S:3}
 A.a4c.prototype={
 $1(a){var s=null,r=this.a,q=t.p
-return new A.tJ(0.28,A.dP(A.dr(A.cc(A.a([A.dP(A.ak(s,new A.bN(B.F,s,s,A.cc(A.a([A.aV(A.j(r.gte().h(0,"userName")),1,B.ae,s,B.dp,s,s),B.aK,A.aV(A.j(r.gte().h(0,"userMobileNumber")),1,B.ae,s,B.RK,s,s)],q),B.p,B.u,B.t),s),B.h,s,s,s,s,s,B.aP,600),s,s),B.yr,A.ak(s,A.dP(A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([new A.eB(1,B.b_,A.ak(s,A.cA("assets/edit_member_icon.png",s,35,35),B.h,s,s,s,s,B.mk,s,s),s),new A.eB(1,B.b_,A.ak(s,B.T3,B.h,s,s,s,s,B.f0,s,s),s)],q),B.p,B.u,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.a4a(r,a),s,B.b2,s,s),s,s,s),s,s),B.h,s,s,s,s,B.ir,s,s),B.yr,A.ak(s,A.dP(A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([new A.eB(1,B.b_,A.ak(s,A.cA("assets/trash_icon.png",s,35,35),B.h,s,s,s,s,B.mk,s,s),s),new A.eB(1,B.b_,A.ak(s,B.SZ,B.h,s,s,s,s,B.f0,s,s),s)],q),B.p,B.u,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.a4b(r,a),s,B.b2,s,s),s,s,s),s,s),B.h,s,s,s,s,B.ir,s,s)],q),B.p,B.u,B.t),s,600),s,s),s)},
+return new A.tJ(0.28,A.dP(A.dr(A.cc(A.a([A.dP(A.ak(s,new A.bN(B.F,s,s,A.cc(A.a([A.aV(A.j(r.gte().h(0,"userName")),1,B.ae,s,B.dp,s,s),B.aK,A.aV(A.j(r.gte().h(0,"userMobileNumber")),1,B.ae,s,B.RK,s,s)],q),B.p,B.u,B.t),s),B.h,s,s,s,s,s,B.aP,600),s,s),B.yr,A.ak(s,A.dP(A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([new A.eB(1,B.b_,A.ak(s,A.cA("assets/edit_member_icon.png",s,35,35),B.h,s,s,s,s,B.mk,s,s),s),new A.eB(1,B.b_,A.ak(s,B.T2,B.h,s,s,s,s,B.f0,s,s),s)],q),B.p,B.u,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.a4a(r,a),s,B.b2,s,s),s,s,s),s,s),B.h,s,s,s,s,B.ir,s,s),B.yr,A.ak(s,A.dP(A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([new A.eB(1,B.b_,A.ak(s,A.cA("assets/trash_icon.png",s,35,35),B.h,s,s,s,s,B.mk,s,s),s),new A.eB(1,B.b_,A.ak(s,B.SY,B.h,s,s,s,s,B.f0,s,s),s)],q),B.p,B.u,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.a4b(r,a),s,B.b2,s,s),s,s,s),s,s),B.h,s,s,s,s,B.ir,s,s)],q),B.p,B.u,B.t),s,600),s,s),s)},
 $S:563}
 A.a4a.prototype={
 $0(){var s=0,r=A.v(t.H),q=this,p,o,n,m
@@ -86397,7 +86397,7 @@ if(t.L.b(o)){p=o
 o=q.c
 if(o.f!=null)A.bI(o,A.bz(new A.adQ(p),null,t.z))}else throw m}return A.t(null,r)}})
 return A.u($async$Fh,r)},
-I(a){var s,r,q,p,o,n=this,m=null,l=A.In(m,B.j,B.d3,A.aV("Manage Clock",m,m,m,A.dC(m,m,B.k,m,m,m,m,m,m,m,m,18,m,m,B.a_,m,m,!0,m,m,m,m,m,m,m,m),m,m)),k=A.ak(m,B.ST,B.h,m,m,m,m,B.is,m,m),j=A.aAN(B.j,2)
+I(a){var s,r,q,p,o,n=this,m=null,l=A.In(m,B.j,B.d3,A.aV("Manage Clock",m,m,m,A.dC(m,m,B.k,m,m,m,m,m,m,m,m,18,m,m,B.a_,m,m,!0,m,m,m,m,m,m,m,m),m,m)),k=A.ak(m,B.SS,B.h,m,m,m,m,B.is,m,m),j=A.aAN(B.j,2)
 j=A.ak(m,A.d3(!1,A.bw(30),!0,A.aAV(A.aBC(n.Q,100,100)),m,!0,m,m,m,m,m,m,m,m,m,new A.adZ(n),m,B.b2,m,m),B.h,m,m,new A.cy(m,m,j,m,m,m,B.eI),m,B.aP,m,m)
 s=n.as
 r=n.f
@@ -86410,7 +86410,7 @@ p=A.bw(5)
 o=t.p
 p=A.ca(A.a([new A.bN(B.ax,m,m,new A.c9(B.iq,q,m),m),B.bx,A.i8(A.d3(!1,A.bw(5),!0,A.cA("assets/copy_icon.png",m,25,25),m,!0,m,m,m,m,m,m,m,m,m,new A.ae1(),m,B.b2,m,m),new A.cy(m,m,m,p,m,m,B.al),25,25)],o),B.p,B.u,B.t)
 q=A.ff(m,m,new A.aI(B.j,t.Il),m,m,m,m,m,m,m,new A.aI(B.Nt,t.VY),m,new A.bo(new A.ae2(),t.h2),m,m,new A.aI(new A.bL(A.bw(30),B.q),t.fj),m,m,m,m,B.fv,m)
-return new A.et(A.ik(!0,A.ks(l,B.bQ,new A.Re(new A.ae3(n),A.ip(A.dP(A.ak(m,A.cc(A.a([new A.bN(B.ax,m,m,k,m),A.l0(A.ca(A.a([j,B.bx,new A.eB(1,B.b_,A.cc(A.a([s,r,B.aK,p,new A.bN(B.cR,m,m,A.ak(m,A.eq(A.aV(n.ay,m,m,m,B.eA,m,m),new A.ae4(n),q),B.h,m,m,m,m,B.aP,m,m),m)],o),B.p,B.u,B.t),m)],o),B.bR,B.u,B.t),m,m,m),B.aK,new A.bN(B.ax,m,m,A.ak(m,B.Tg,B.h,m,m,m,m,B.is,m,m),m),A.ca(A.a([A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/club_members_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zL,new A.bN(B.ax,m,m,A.aV(B.e.j(n.cy),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae5(n,a),m,B.bQ,m,m),m,m,m),m,m,m),1),A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/encoder_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zM,new A.bN(B.ax,m,m,A.aV(B.e.j(n.db),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae6(),m,B.bQ,m,m),m,m,m),m,m,m),1)],o),B.p,B.u,B.t),A.ca(A.a([A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/moderators_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zN,new A.bN(B.ax,m,m,A.aV(B.e.j(n.dx),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae7(),m,B.bQ,m,m),m,m,m),m,m,m),1)],o),B.p,B.u,B.b1),new A.bN(B.ax,m,m,A.ak(m,B.Tf,B.h,m,m,m,m,B.is,m,m),m)],o),B.p,B.u,B.t),B.h,m,m,m,m,m,B.a1,600),m,m),m),B.V1),m,m,m,m),B.Z,!0),new A.ae8(),m)}}
+return new A.et(A.ik(!0,A.ks(l,B.bQ,new A.Re(new A.ae3(n),A.ip(A.dP(A.ak(m,A.cc(A.a([new A.bN(B.ax,m,m,k,m),A.l0(A.ca(A.a([j,B.bx,new A.eB(1,B.b_,A.cc(A.a([s,r,B.aK,p,new A.bN(B.cR,m,m,A.ak(m,A.eq(A.aV(n.ay,m,m,m,B.eA,m,m),new A.ae4(n),q),B.h,m,m,m,m,B.aP,m,m),m)],o),B.p,B.u,B.t),m)],o),B.bR,B.u,B.t),m,m,m),B.aK,new A.bN(B.ax,m,m,A.ak(m,B.Tf,B.h,m,m,m,m,B.is,m,m),m),A.ca(A.a([A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/club_members_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zL,new A.bN(B.ax,m,m,A.aV(B.e.j(n.cy),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae5(n,a),m,B.bQ,m,m),m,m,m),m,m,m),1),A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/encoder_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zM,new A.bN(B.ax,m,m,A.aV(B.e.j(n.db),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae6(),m,B.bQ,m,m),m,m,m),m,m,m),1)],o),B.p,B.u,B.t),A.ca(A.a([A.i6(A.l0(A.i8(A.d3(!1,A.bw(10),!0,A.ak(m,A.ca(A.a([new A.eB(1,B.b_,A.ak(m,A.cA("assets/moderators_icon.png",m,35,35),B.h,m,m,m,m,B.bU,m,m),m),A.cc(A.a([B.zN,new A.bN(B.ax,m,m,A.aV(B.e.j(n.dx),m,m,m,B.jY,m,m),m)],o),B.bR,B.u,B.t)],o),B.p,B.u,B.b1),B.h,m,m,m,m,m,B.iu,m),m,!0,m,m,m,m,m,m,m,m,m,new A.ae7(),m,B.bQ,m,m),m,m,m),m,m,m),1)],o),B.p,B.u,B.b1),new A.bN(B.ax,m,m,A.ak(m,B.Te,B.h,m,m,m,m,B.is,m,m),m)],o),B.p,B.u,B.t),B.h,m,m,m,m,m,B.a1,600),m,m),m),B.V1),m,m,m,m),B.Z,!0),new A.ae8(),m)}}
 A.ae9.prototype={
 $1(a){this.a.t3()},
 $S:5}
@@ -86864,7 +86864,7 @@ case 1:return A.t(q,r)}})
 return A.u($async$CY,r)},
 I(a){var s,r,q,p,o,n,m=this,l=null,k=A.In(l,B.j,B.d3,A.aV("My Account",l,l,l,A.dC(l,l,B.k,l,l,l,l,l,l,l,l,18,l,l,B.a_,l,l,!0,l,l,l,l,l,l,l,l),l,l)),j=A.aAN(B.j,2)
 j=A.ak(l,A.d3(!1,A.bw(30),!0,A.aAV(A.aBC(m.ax,120,120)),l,!0,l,l,l,l,l,l,l,l,l,new A.aoI(m,a),l,B.b2,l,l),B.h,l,l,new A.cy(l,l,j,l,l,l,B.eI),l,l,l,l)
-s=A.ak(l,B.T0,B.h,l,l,l,l,B.DW,l,l)
+s=A.ak(l,B.T_,B.h,l,l,l,l,B.DW,l,l)
 r=m.CW
 q=m.f
 p=m.Q
@@ -86877,7 +86877,7 @@ o=A.ff(l,l,new A.aI(B.j,t.Il),l,l,l,l,l,l,l,new A.aI(B.Nv,t.VY),l,new A.bo(new A
 o=A.ak(l,A.eq(A.aV(m.ay,l,l,l,B.z8,l,l),new A.aoM(m),o),B.h,l,l,l,l,B.E3,l,l)
 q=A.bw(30)
 n=t.p
-return A.ik(!0,new A.et(A.ks(k,B.bQ,A.ip(A.dP(A.ak(l,A.l0(A.cc(A.a([B.bn,B.SX,B.bn,new A.bN(B.F,l,l,j,l),s,B.bn,r,p,new A.bN(B.cR,l,l,o,l),new A.bN(B.cR,l,l,A.ak(l,A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([A.cA("assets/logout_white_icon.png",l,20,20),B.bx,B.Tr],n),B.p,B.bE,B.t),l,!0,l,l,l,l,l,l,l,l,l,m.gadi(),l,B.aZ,l,l),new A.cy(B.j,l,l,q,l,l,B.al),50,150),B.h,l,l,l,l,B.E5,l,l),l),B.yp,new A.bN(B.ax,l,l,A.ak(l,B.SU,B.h,l,l,l,l,B.Eg,l,l),l),B.bn,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/transfer_icon.png",l,30,30),B.bx,B.T1],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoN(),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.aK,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/terms_icon.png",l,30,30),B.bx,B.Tp],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoO(m),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.aK,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/numbers_icon.png",l,30,30),B.bx,B.SN],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoP(),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.bn],n),B.p,B.u,B.t),B.k,l,B.a1),B.h,l,l,l,l,B.az,l,600),l,l),l),l,l,l,l),m.ga1Y(),l),B.Z,!0)}}
+return A.ik(!0,new A.et(A.ks(k,B.bQ,A.ip(A.dP(A.ak(l,A.l0(A.cc(A.a([B.bn,B.SW,B.bn,new A.bN(B.F,l,l,j,l),s,B.bn,r,p,new A.bN(B.cR,l,l,o,l),new A.bN(B.cR,l,l,A.ak(l,A.i8(A.d3(!1,A.bw(30),!0,A.ca(A.a([A.cA("assets/logout_white_icon.png",l,20,20),B.bx,B.Tq],n),B.p,B.bE,B.t),l,!0,l,l,l,l,l,l,l,l,l,m.gadi(),l,B.aZ,l,l),new A.cy(B.j,l,l,q,l,l,B.al),50,150),B.h,l,l,l,l,B.E5,l,l),l),B.yp,new A.bN(B.ax,l,l,A.ak(l,B.ST,B.h,l,l,l,l,B.Eg,l,l),l),B.bn,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/transfer_icon.png",l,30,30),B.bx,B.T0],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoN(),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.aK,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/terms_icon.png",l,30,30),B.bx,B.To],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoO(m),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.aK,new A.bN(B.ax,l,l,A.ak(l,A.d3(!1,A.bw(5),!0,A.ak(l,A.ca(A.a([A.cA("assets/numbers_icon.png",l,30,30),B.bx,B.SN],n),B.p,B.u,B.t),B.h,l,l,l,l,l,B.az,l),l,!0,l,l,l,l,l,l,l,l,l,new A.aoP(),l,B.dL,l,l),B.h,l,l,l,l,B.it,l,l),l),B.bn],n),B.p,B.u,B.t),B.k,l,B.a1),B.h,l,l,l,l,B.az,l,600),l,l),l),l,l,l,l),m.ga1Y(),l),B.Z,!0)}}
 A.aop.prototype={
 $0(){this.a.ac(new A.aoo())},
 $S:0}
@@ -87092,7 +87092,7 @@ m=t.Il
 l=t.fj
 k=A.i6(A.eq(B.zb,new A.a0Z(a),A.ff(j,j,new A.aI(B.j,m),j,j,j,j,j,j,j,new A.aI(B.ym,o),j,new A.bo(new A.a0P(),p),j,j,new A.aI(new A.bL(A.bw(30),B.q),l),j,j,j,j,B.fv,j)),1)
 l=A.ff(j,j,new A.aI(B.j,m),j,j,j,j,j,j,j,new A.aI(B.ym,o),j,new A.bo(new A.a0Q(),p),j,j,new A.aI(new A.bL(A.bw(30),B.q),l),j,j,j,j,B.fv,j)
-return A.ip(A.dP(A.ak(j,A.cc(A.a([f,B.bn,e,B.aK,s,B.aK,r,B.aK,B.Tm,B.aK,q,B.bn,A.ca(A.a([k,B.bx,A.i6(A.eq(A.aV(g.w,j,j,j,B.eA,j,j),new A.a0R(g,a),l),1)],n),B.p,B.u,B.t)],n),B.p,B.u,B.t),B.h,j,j,j,j,j,B.aP,600),j,j),j)},
+return A.ip(A.dP(A.ak(j,A.cc(A.a([f,B.bn,e,B.aK,s,B.aK,r,B.aK,B.Tl,B.aK,q,B.bn,A.ca(A.a([k,B.bx,A.i6(A.eq(A.aV(g.w,j,j,j,B.eA,j,j),new A.a0R(g,a),l),1)],n),B.p,B.u,B.t)],n),B.p,B.u,B.t),B.h,j,j,j,j,j,B.aP,600),j,j),j)},
 $S:146}
 A.a0N.prototype={
 $1(a){if(a==="")return"Required"
@@ -87243,7 +87243,7 @@ A.ac7.prototype={
 Xi(a,b){A.ow(B.B,!0,new A.aca(this,b),a,t.z)}}
 A.aca.prototype={
 $1(a){var s=null,r=this.a,q=this.b,p=t.p
-return A.oB(s,s,A.ip(A.cc(A.a([A.ak(s,B.T6,B.h,s,s,s,s,B.ip,B.d1,s),A.ca(A.a([A.i8(A.d3(!1,A.bw(20),!0,A.cc(A.a([B.aK,A.cA("assets/gallery_icon.png",s,50,50),B.yq,B.SV],p),B.p,B.bE,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.ac8(r,a,q),s,B.b2,s,s),s,s,90),B.bx,A.i8(A.d3(!1,A.bw(20),!0,A.cc(A.a([B.aK,A.cA("assets/camera_icon.png",s,50,50),B.yq,B.Tv],p),B.p,B.bE,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.ac9(r,a,q),s,B.b2,s,s),s,s,90)],p),B.p,B.bE,B.t)],p),B.p,B.u,B.t),s),!1,s,s,s)},
+return A.oB(s,s,A.ip(A.cc(A.a([A.ak(s,B.T5,B.h,s,s,s,s,B.ip,B.d1,s),A.ca(A.a([A.i8(A.d3(!1,A.bw(20),!0,A.cc(A.a([B.aK,A.cA("assets/gallery_icon.png",s,50,50),B.yq,B.SU],p),B.p,B.bE,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.ac8(r,a,q),s,B.b2,s,s),s,s,90),B.bx,A.i8(A.d3(!1,A.bw(20),!0,A.cc(A.a([B.aK,A.cA("assets/camera_icon.png",s,50,50),B.yq,B.Tv],p),B.p,B.bE,B.t),s,!0,s,s,s,s,s,s,s,s,s,new A.ac9(r,a,q),s,B.b2,s,s),s,s,90)],p),B.p,B.bE,B.t)],p),B.p,B.u,B.t),s),!1,s,s,s)},
 $S:62}
 A.ac8.prototype={
 $0(){A.bQ(this.b,!1).bX()
@@ -87331,7 +87331,7 @@ s=n.r
 r=A.a([new A.QV()],t.VS)
 q=n.c
 p=t.p
-s=A.ip(A.dr(A.cc(A.a([B.TB,B.aK,B.T7,B.ci,m,B.ci,l,B.ci,A.dy(A.eE(!1,B.aG,q,A.eC(o,B.M,o,o,A.aV(""+q.a.a.length+"/10",o,o,o,o,o,o),o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,B.j,B.M,o,o,o,"(ex. MKLE) This will be permanent.",o,B.G,o,o,o,o,o,!1,o,o,B.G,"Club ID",o,o,o,o,o,o,o,o,o,o,o,o,o),o,r,o,o,1,new A.aga(b),new A.agb()),s,o)],p),B.p,B.u,B.t),o,600),o)
+s=A.ip(A.dr(A.cc(A.a([B.TB,B.aK,B.T6,B.ci,m,B.ci,l,B.ci,A.dy(A.eE(!1,B.aG,q,A.eC(o,B.M,o,o,A.aV(""+q.a.a.length+"/10",o,o,o,o,o,o),o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,B.j,B.M,o,o,o,"(ex. MKLE) This will be permanent.",o,B.G,o,o,o,o,o,!1,o,o,B.G,"Club ID",o,o,o,o,o,o,o,o,o,o,o,o,o),o,r,o,o,1,new A.aga(b),new A.agb()),s,o)],p),B.p,B.u,B.t),o,600),o)
 r=n.r
 q=A.bw(10)
 return A.oB(A.a([A.dy(A.i8(A.d3(!1,A.bw(10),!0,A.dP(A.ca(A.a([new A.eB(1,B.b_,A.ap4(A.ak(o,B.BI,B.h,o,o,o,30,B.mq,o,30),r),o),new A.eB(2,B.b_,A.ap4(B.za,!r),o)],p),B.p,B.bE,B.t),o,o),o,!0,o,o,o,o,o,o,o,o,o,new A.agc(n,b,this.b,a),o,B.aZ,o,o),new A.cy(B.j,o,o,q,o,o,B.al),50,150),r,o)],p),o,s,!1,o,o,o)},
@@ -87466,7 +87466,7 @@ $1(a){return new A.ji(new A.anU(this.a,this.b),null)},
 $S:582}
 A.anU.prototype={
 $2(a,b){var s=null,r=this.a,q=r.a,p=t.VY,o=t.h2,n=t.Il,m=t.fj,l=t.p
-return A.oB(s,s,A.dr(A.cc(A.a([B.T_,B.bn,A.eE(!1,s,q,A.eC(s,B.M,s,s,A.aV(""+q.a.a.length+"/10",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,"example: MFCA",s,B.G,s,s,s,s,s,!1,s,s,B.G,"Club ID",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.anP(b),s),B.bn,A.ca(A.a([A.i6(A.eq(B.zb,new A.anQ(a),A.ff(s,s,new A.aI(B.j,n),s,s,s,s,s,s,s,new A.aI(B.ha,p),s,new A.bo(new A.anR(),o),s,s,new A.aI(new A.bL(A.bw(30),B.q),m),s,s,s,s,s,s)),1),B.bx,A.i6(A.eq(B.T8,new A.anS(r,a,this.b),A.ff(s,s,new A.aI(B.j,n),s,s,s,s,s,s,s,new A.aI(B.ha,p),s,new A.bo(new A.anT(),o),s,s,new A.aI(new A.bL(A.bw(30),B.q),m),s,s,s,s,s,s)),1)],l),B.p,B.u,B.t)],l),B.p,B.u,B.t),s,600),!0,s,s,B.T2)},
+return A.oB(s,s,A.dr(A.cc(A.a([B.SZ,B.bn,A.eE(!1,s,q,A.eC(s,B.M,s,s,A.aV(""+q.a.a.length+"/10",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,"example: MFCA",s,B.G,s,s,s,s,s,!1,s,s,B.G,"Club ID",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.anP(b),s),B.bn,A.ca(A.a([A.i6(A.eq(B.zb,new A.anQ(a),A.ff(s,s,new A.aI(B.j,n),s,s,s,s,s,s,s,new A.aI(B.ha,p),s,new A.bo(new A.anR(),o),s,s,new A.aI(new A.bL(A.bw(30),B.q),m),s,s,s,s,s,s)),1),B.bx,A.i6(A.eq(B.T7,new A.anS(r,a,this.b),A.ff(s,s,new A.aI(B.j,n),s,s,s,s,s,s,s,new A.aI(B.ha,p),s,new A.bo(new A.anT(),o),s,s,new A.aI(new A.bL(A.bw(30),B.q),m),s,s,s,s,s,s)),1)],l),B.p,B.u,B.t)],l),B.p,B.u,B.t),s,600),!0,s,s,B.T1)},
 $S:165}
 A.anP.prototype={
 $1(a){this.a.$1(new A.anO())},
@@ -87499,7 +87499,7 @@ $S:62}
 A.aph.prototype={
 $2(a,b){var s=null,r=this.a,q=r.a
 r=r.b
-return A.ip(A.dr(A.cc(A.a([B.Tc,B.aK,B.Ta,B.ci,A.eE(!1,B.aG,q,A.eC(s,B.M,s,s,A.aV(""+q.a.a.length+"/30",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,s,s,B.G,s,s,s,s,s,!1,s,s,B.G,"User name",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.apb(b),new A.apc()),B.ci,A.eE(!1,B.aG,r,A.eC(s,B.M,s,s,A.aV(""+r.a.a.length+"/25",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,s,s,B.G,s,s,s,s,s,!1,s,s,B.G,"Loft name",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.apd(b),new A.ape())],t.p),B.p,B.u,B.t),s,600),s)},
+return A.ip(A.dr(A.cc(A.a([B.Tb,B.aK,B.T9,B.ci,A.eE(!1,B.aG,q,A.eC(s,B.M,s,s,A.aV(""+q.a.a.length+"/30",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,s,s,B.G,s,s,s,s,s,!1,s,s,B.G,"User name",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.apb(b),new A.apc()),B.ci,A.eE(!1,B.aG,r,A.eC(s,B.M,s,s,A.aV(""+r.a.a.length+"/25",s,s,s,s,s,s),s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,B.j,B.M,s,s,s,s,s,B.G,s,s,s,s,s,!1,s,s,B.G,"Loft name",s,s,s,s,s,s,s,s,s,s,s,s,s),s,s,s,s,1,new A.apd(b),new A.ape())],t.p),B.p,B.u,B.t),s,600),s)},
 $S:146}
 A.apc.prototype={
 $1(a){if(a==="")return"Required"
@@ -87557,7 +87557,7 @@ q.ac(new A.a85())
 return A.t(null,r)}})
 return A.u($async$wQ,r)},
 I(a){var s=null
-return new A.et(A.ik(!0,A.ks(s,s,A.cc(A.a([A.ak(s,B.BE,B.h,B.je,s,s,s,s,B.aP,1/0),A.ak(s,B.SY,B.h,s,s,s,s,s,B.a1,s),A.ak(s,A.aV(this.d,s,s,s,B.PS,s,s),B.h,s,s,s,s,s,B.a1,s),A.ak(s,A.aV(this.a.c,s,s,s,B.Qm,s,s),B.h,s,s,s,s,s,B.a1,s)],t.p),B.p,B.u,B.t),s,s,s,s),B.Z,!0),new A.a86(),s)}}
+return new A.et(A.ik(!0,A.ks(s,s,A.cc(A.a([A.ak(s,B.BE,B.h,B.je,s,s,s,s,B.aP,1/0),A.ak(s,B.SX,B.h,s,s,s,s,s,B.a1,s),A.ak(s,A.aV(this.d,s,s,s,B.PS,s,s),B.h,s,s,s,s,s,B.a1,s),A.ak(s,A.aV(this.a.c,s,s,s,B.Qm,s,s),B.h,s,s,s,s,s,B.a1,s)],t.p),B.p,B.u,B.t),s,s,s,s),B.Z,!0),new A.a86(),s)}}
 A.a85.prototype={
 $0(){},
 $S:0}
@@ -87628,7 +87628,7 @@ case 5:return A.t(null,r)
 case 1:return A.r(p,r)}})
 return A.u($async$wE,r)},
 I(a){var s=this,r=null,q=A.ak(r,B.Tx,B.h,r,r,r,r,r,B.aP,r),p=A.X(B.d.bo(25.5),158,158,158),o=A.bw(100),n=t.p
-return A.ik(!0,A.ks(r,B.bQ,A.ip(A.ak(r,new A.bN(B.eF,r,r,A.cc(A.a([A.ak(r,A.cc(A.a([A.dr(A.l0(A.cc(A.a([B.aK,q,A.ak(r,A.aV(s.f,r,r,r,B.PT,r,r),B.h,r,r,new A.cy(p,r,r,o,r,r,B.al),r,r,B.bU,r),B.aK,B.NG,B.NH,A.aV(s.e,r,r,r,B.cI,r,r),B.bn],n),B.p,B.u,B.t),B.k,r,r),r,600),B.ci,A.dr(A.l0(A.cc(A.a([A.ak(r,B.Tj,B.h,r,r,r,r,r,B.aP,r),new A.bN(B.F,r,r,A.ak(r,B.Tw,B.h,r,r,r,r,r,B.mn,r),r),A.ak(r,A.aJb(!0,B.cc,!1,r,!0,B.T,r,A.b1L(),s.d,B.j,r,r,r,2,B.Fe,B.ao,!0,r,!0,r,!1,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,r,!1,r,!0,r,B.mm,r,r,B.cU,B.co,r,r,r,r,r,r,B.ex,r,B.yP,r,r,r,r),B.h,r,r,r,r,r,B.mn,r),B.bn,A.eq(B.SP,s.ga31(),A.ff(r,r,B.JJ,r,r,r,r,r,r,r,new A.aI(B.Nx,t.VY),r,new A.bo(new A.a3L(),t.h2),r,r,new A.aI(new A.bL(A.bw(30),B.q),t.fj),r,r,r,r,r,r)),B.bn,A.ak(r,B.To,B.h,r,r,r,r,r,B.az,r),A.ak(r,A.d3(!1,A.bw(10),!0,A.ak(r,A.cA("assets/qr_code_icon.png",r,70,70),B.h,r,r,r,r,r,B.a1,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a3M(),r,B.aZ,r,r),B.h,r,r,r,r,B.iq,B.a1,r)],n),B.p,B.u,B.t),B.k,r,r),r,600)],n),B.p,B.u,B.t),B.h,r,r,r,r,r,B.a1,r)],n),B.p,B.u,B.t),r),B.h,r,r,r,r,r,B.a1,r),r),r,r,r,r),B.Z,!0)}}
+return A.ik(!0,A.ks(r,B.bQ,A.ip(A.ak(r,new A.bN(B.eF,r,r,A.cc(A.a([A.ak(r,A.cc(A.a([A.dr(A.l0(A.cc(A.a([B.aK,q,A.ak(r,A.aV(s.f,r,r,r,B.PT,r,r),B.h,r,r,new A.cy(p,r,r,o,r,r,B.al),r,r,B.bU,r),B.aK,B.NG,B.NH,A.aV(s.e,r,r,r,B.cI,r,r),B.bn],n),B.p,B.u,B.t),B.k,r,r),r,600),B.ci,A.dr(A.l0(A.cc(A.a([A.ak(r,B.Ti,B.h,r,r,r,r,r,B.aP,r),new A.bN(B.F,r,r,A.ak(r,B.Tw,B.h,r,r,r,r,r,B.mn,r),r),A.ak(r,A.aJb(!0,B.cc,!1,r,!0,B.T,r,A.b1L(),s.d,B.j,r,r,r,2,B.Fe,B.ao,!0,r,!0,r,!1,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,r,!1,r,!0,r,B.mm,r,r,B.cU,B.co,r,r,r,r,r,r,B.ex,r,B.yP,r,r,r,r),B.h,r,r,r,r,r,B.mn,r),B.bn,A.eq(B.SP,s.ga31(),A.ff(r,r,B.JJ,r,r,r,r,r,r,r,new A.aI(B.Nx,t.VY),r,new A.bo(new A.a3L(),t.h2),r,r,new A.aI(new A.bL(A.bw(30),B.q),t.fj),r,r,r,r,r,r)),B.bn,A.ak(r,B.Tn,B.h,r,r,r,r,r,B.az,r),A.ak(r,A.d3(!1,A.bw(10),!0,A.ak(r,A.cA("assets/qr_code_icon.png",r,70,70),B.h,r,r,r,r,r,B.a1,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a3M(),r,B.aZ,r,r),B.h,r,r,r,r,B.iq,B.a1,r)],n),B.p,B.u,B.t),B.k,r,r),r,600)],n),B.p,B.u,B.t),B.h,r,r,r,r,r,B.a1,r)],n),B.p,B.u,B.t),r),B.h,r,r,r,r,r,B.a1,r),r),r,r,r,r),B.Z,!0)}}
 A.a3N.prototype={
 $1(a){this.a.wF()},
 $S:5}
@@ -87865,7 +87865,7 @@ break
 case 1:return A.t(q,r)}})
 return A.u($async$Ey,r)},
 I(a){var s=null
-return new A.et(A.ks(s,s,A.ik(!0,A.dP(A.cc(A.a([A.ak(s,A.cA("assets/logo.png",s,120,120),B.h,s,s,s,s,s,B.az,s),A.ak(s,B.Tz,B.h,s,s,s,s,B.iq,s,s),A.ak(s,B.Tt,B.h,s,s,s,s,B.DY,s,s),B.NI,A.ak(s,B.FI,B.h,s,s,s,s,s,B.az,200),B.ci,B.SR],t.p),B.p,B.bE,B.t),s,s),B.Z,!0),s,s,s,s),this.gaa9(),s)}}
+return new A.et(A.ks(s,s,A.ik(!0,A.dP(A.cc(A.a([A.ak(s,A.cA("assets/logo.png",s,120,120),B.h,s,s,s,s,s,B.az,s),A.ak(s,B.Tz,B.h,s,s,s,s,B.iq,s,s),A.ak(s,B.Ts,B.h,s,s,s,s,B.DY,s,s),B.NI,A.ak(s,B.FI,B.h,s,s,s,s,s,B.az,200),B.ci,B.Tt],t.p),B.p,B.bE,B.t),s,s),B.Z,!0),s,s,s,s),this.gaa9(),s)}}
 A.aup.prototype={
 $1(a){return new A.bE(this.a.j(0),null)},
 $S:3}
@@ -91337,10 +91337,10 @@ B.a_=new A.i7(6,700)
 B.dp=new A.m(!0,null,null,null,null,null,18,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.SO=new A.bd("Club Members",null,B.dp,null,null,null,null,null,null)
 B.zL=new A.bN(B.ax,null,null,B.SO,null)
-B.Tq=new A.bd("Encoders",null,B.dp,null,null,null,null,null,null)
-B.zM=new A.bN(B.ax,null,null,B.Tq,null)
-B.T4=new A.bd("Moderators",null,B.dp,null,null,null,null,null,null)
-B.zN=new A.bN(B.ax,null,null,B.T4,null)
+B.Tp=new A.bd("Encoders",null,B.dp,null,null,null,null,null,null)
+B.zM=new A.bN(B.ax,null,null,B.Tp,null)
+B.T3=new A.bd("Moderators",null,B.dp,null,null,null,null,null,null)
+B.zN=new A.bN(B.ax,null,null,B.T3,null)
 B.ky=new A.fQ(0,1)
 B.kz=new A.fQ(0,-1)
 B.kA=new A.fQ(1,0)
@@ -91718,8 +91718,8 @@ B.By=new A.J5(1,"front")
 B.BD=new A.rR(null,null,null,null,null,null,null)
 B.k=new A.B(4294967295)
 B.yZ=new A.m(!0,B.k,null,null,null,null,20,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ts=new A.bd("An error occurred!",null,B.yZ,null,null,null,null,null,null)
-B.BE=new A.rS(B.F,null,null,B.Ts,null)
+B.Tr=new A.bd("An error occurred!",null,B.yZ,null,null,null,null,null,null)
+B.BE=new A.rS(B.F,null,null,B.Tr,null)
 B.z0=new A.m(!0,B.k,null,null,null,null,16,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.za=new A.bd("Continue",null,B.z0,null,null,null,null,null,null)
 B.BF=new A.rS(B.F,null,null,B.za,null)
@@ -93693,8 +93693,8 @@ B.ev=new A.dA(20,null,null,null)
 B.NF=new A.dA(8,null,null,null)
 B.iL=new A.a9v(1,"italic")
 B.PM=new A.m(!0,null,null,null,null,null,12,null,B.iL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Te=new A.bd("Server date and time is based on the platform you are using.",null,B.PM,B.ex,null,null,null,null,null)
-B.NG=new A.dA(350,null,B.Te,null)
+B.Td=new A.bd("Server date and time is based on the platform you are using.",null,B.PM,B.ex,null,null,null,null,null)
+B.NG=new A.dA(350,null,B.Td,null)
 B.aK=new A.dA(null,10,null,null)
 B.NH=new A.dA(null,15,null,null)
 B.bn=new A.dA(null,20,null,null)
@@ -94082,54 +94082,54 @@ B.SM=new A.dh(B.QS,B.Sr,B.S9,B.Ph,B.S2,B.QO,B.Sw,B.PJ,B.Qr,B.RP,B.P8,B.Sb,B.S_,B
 B.SN=new A.bd("Mobile Numbers",null,B.ba,null,null,null,null,null,null)
 B.SP=new A.bd("Clock-In",null,B.z_,null,null,null,null,null,null)
 B.SQ=new A.bd("Authentication",null,B.ba,null,null,null,null,null,null)
-B.PU=new A.m(!0,null,null,null,null,null,12,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SR=new A.bd("Version: 1.0.5",null,B.PU,null,null,null,null,null,null)
-B.SS=new A.bd("Transfer",null,null,null,null,null,null,null,null)
+B.SR=new A.bd("Transfer",null,null,null,null,null,null,null,null)
 B.jZ=new A.m(!0,B.cq,null,null,null,null,18,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ST=new A.bd("Club Details",null,B.jZ,null,null,null,null,null,null)
+B.SS=new A.bd("Club Details",null,B.jZ,null,null,null,null,null,null)
 B.OP=new A.m(!0,B.b2,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SU=new A.bd("More Options",null,B.OP,null,null,null,null,null,null)
-B.SV=new A.bd("Gallery",null,B.cJ,null,null,null,null,null,null)
-B.SW=new A.bd("My Account",null,B.cI,null,null,null,null,null,null)
+B.ST=new A.bd("More Options",null,B.OP,null,null,null,null,null,null)
+B.SU=new A.bd("Gallery",null,B.cJ,null,null,null,null,null,null)
+B.SV=new A.bd("My Account",null,B.cI,null,null,null,null,null,null)
 B.z3=new A.m(!0,null,null,null,null,null,25,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SX=new A.bd("My Account",null,B.z3,null,null,null,null,null,null)
+B.SW=new A.bd("My Account",null,B.z3,null,null,null,null,null,null)
 B.z5=new A.m(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SY=new A.bd("The app encountered a critical error. Please take a screenshot of this error and send it to the developer to fix it ASAP.\nWe're so sorry for the inconvenience caused. We will make sure not to happen thi again in the future. The system also captured the time for your reference.",null,B.z5,null,null,null,null,null,null)
+B.SX=new A.bd("The app encountered a critical error. Please take a screenshot of this error and send it to the developer to fix it ASAP.\nWe're so sorry for the inconvenience caused. We will make sure not to happen thi again in the future. The system also captured the time for your reference.",null,B.z5,null,null,null,null,null,null)
 B.Qg=new A.m(!0,B.je,null,null,null,null,18,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SZ=new A.bd("Delete Member",null,B.Qg,null,null,null,null,null,null)
-B.T_=new A.bd("Transfer your hobby clock's member in just a few minutes!. Please provide your Hobby Clock's CLUB ID.",null,B.z5,null,null,null,null,null,null)
+B.SY=new A.bd("Delete Member",null,B.Qg,null,null,null,null,null,null)
+B.SZ=new A.bd("Transfer your hobby clock's member in just a few minutes!. Please provide your Hobby Clock's CLUB ID.",null,B.z5,null,null,null,null,null,null)
 B.PN=new A.m(!0,null,null,null,null,null,10,null,B.iL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T0=new A.bd("Tap your profile picture to select new.",null,B.PN,null,null,null,null,null,null)
-B.T1=new A.bd("Transfer Hobby Clock Data",null,B.ba,null,null,null,null,null,null)
-B.T2=new A.bd("Transfer Members",null,B.dp,null,null,null,null,null,null)
-B.T3=new A.bd("Edit Member",null,B.dp,null,null,null,null,null,null)
-B.T5=new A.bd("Assignments",null,B.cI,null,null,null,null,null,null)
-B.T6=new A.bd("Upload from",null,B.ba,null,null,null,null,null,null)
+B.T_=new A.bd("Tap your profile picture to select new.",null,B.PN,null,null,null,null,null,null)
+B.T0=new A.bd("Transfer Hobby Clock Data",null,B.ba,null,null,null,null,null,null)
+B.T1=new A.bd("Transfer Members",null,B.dp,null,null,null,null,null,null)
+B.T2=new A.bd("Edit Member",null,B.dp,null,null,null,null,null,null)
+B.T4=new A.bd("Assignments",null,B.cI,null,null,null,null,null,null)
+B.T5=new A.bd("Upload from",null,B.ba,null,null,null,null,null,null)
 B.z6=new A.m(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T7=new A.bd("Hello, thank you for choosing RIX Clocking System as your CLOCK provider. Let's get started by entering your club name and address.",null,B.z6,null,null,null,null,null,null)
-B.T8=new A.bd("Transfer",null,B.eA,null,null,null,null,null,null)
-B.T9=new A.bd("Rix Clocking System",null,B.z0,null,null,null,null,null,null)
-B.Ta=new A.bd("Welcome to RIX Clocking System fancier! This is the Hobby Clock version 2.0. Please enter your name and loft name. You'll be able to sync your hobby clock data later.",null,B.z6,null,null,null,null,null,null)
-B.Tb=new A.bd("Manage Clock",null,B.cI,null,null,null,null,null,null)
-B.Tc=new A.bd("WELCOME FANCIER!",null,B.ba,null,null,null,null,null,null)
-B.Td=new A.bd("No members yet",null,B.cJ,null,null,null,null,null,null)
+B.T6=new A.bd("Hello, thank you for choosing RIX Clocking System as your CLOCK provider. Let's get started by entering your club name and address.",null,B.z6,null,null,null,null,null,null)
+B.T7=new A.bd("Transfer",null,B.eA,null,null,null,null,null,null)
+B.T8=new A.bd("Rix Clocking System",null,B.z0,null,null,null,null,null,null)
+B.T9=new A.bd("Welcome to RIX Clocking System fancier! This is the Hobby Clock version 2.0. Please enter your name and loft name. You'll be able to sync your hobby clock data later.",null,B.z6,null,null,null,null,null,null)
+B.Ta=new A.bd("Manage Clock",null,B.cI,null,null,null,null,null,null)
+B.Tb=new A.bd("WELCOME FANCIER!",null,B.ba,null,null,null,null,null,null)
+B.Tc=new A.bd("No members yet",null,B.cJ,null,null,null,null,null,null)
 B.zb=new A.bd("Cancel",null,B.eA,null,null,null,null,null,null)
-B.Tf=new A.bd("Clocking System",null,B.jZ,null,null,null,null,null,null)
-B.Tg=new A.bd("Manage Club",null,B.jZ,null,null,null,null,null,null)
-B.Th=new A.bd("Search",null,B.eA,null,null,null,null,null,null)
-B.Ti=new A.bd("My Location",null,B.cI,null,null,null,null,null,null)
-B.Tj=new A.bd("Clock-In",null,B.ba,null,null,null,null,null,null)
+B.Te=new A.bd("Clocking System",null,B.jZ,null,null,null,null,null,null)
+B.Tf=new A.bd("Manage Club",null,B.jZ,null,null,null,null,null,null)
+B.Tg=new A.bd("Search",null,B.eA,null,null,null,null,null,null)
+B.Th=new A.bd("My Location",null,B.cI,null,null,null,null,null,null)
+B.Ti=new A.bd("Clock-In",null,B.ba,null,null,null,null,null,null)
 B.RU=new A.m(!0,B.j,null,null,null,null,12,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tk=new A.bd("Add More",null,B.RU,null,null,null,null,null,null)
+B.Tj=new A.bd("Add More",null,B.RU,null,null,null,null,null,null)
 B.z4=new A.m(!0,null,null,null,null,null,14,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tl=new A.bd("Confirm OTP",null,B.z4,null,null,null,null,null,null)
-B.Tm=new A.bd("Coordinates",null,B.ba,null,null,null,null,null,null)
-B.Tn=new A.bd("Activity Logs",null,B.cI,null,null,null,null,null,null)
-B.To=new A.bd("or use QR Code scanner",null,null,null,null,null,null,null,null)
-B.Tp=new A.bd("Terms and Privacy Policy",null,B.ba,null,null,null,null,null,null)
-B.Tr=new A.bd("Log out",null,B.z8,null,null,null,null,null,null)
+B.Tk=new A.bd("Confirm OTP",null,B.z4,null,null,null,null,null,null)
+B.Tl=new A.bd("Coordinates",null,B.ba,null,null,null,null,null,null)
+B.Tm=new A.bd("Activity Logs",null,B.cI,null,null,null,null,null,null)
+B.Tn=new A.bd("or use QR Code scanner",null,null,null,null,null,null,null,null)
+B.To=new A.bd("Terms and Privacy Policy",null,B.ba,null,null,null,null,null,null)
+B.Tq=new A.bd("Log out",null,B.z8,null,null,null,null,null,null)
 B.Qn=new A.m(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tt=new A.bd("Hobby Clock 2.0 Multi-platform",null,B.Qn,null,null,null,null,null,null)
+B.Ts=new A.bd("Hobby Clock 2.0 Multi-platform",null,B.Qn,null,null,null,null,null,null)
+B.PU=new A.m(!0,null,null,null,null,null,12,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Tt=new A.bd("Version: 1.1.0",null,B.PU,null,null,null,null,null,null)
 B.Tu=new A.bd("Confirm OTP",null,B.yY,null,null,null,null,null,null)
 B.Tv=new A.bd("Camera",null,B.cJ,null,null,null,null,null,null)
 B.Tw=new A.bd("Directly enter the sticker code.",null,null,null,null,null,null,null,null)
